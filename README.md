@@ -185,12 +185,6 @@ php artisan migrate --seed
 
 ---
 
-# 📷 Screenshot
-
-Tambahkan screenshot aplikasi di sini apabila diperlukan.
-
----
-
 # 👨‍💻 Author
 
 Nama : Riu Shandy Lintar Pratama
